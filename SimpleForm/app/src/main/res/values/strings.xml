@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SimpleForm</string>
+    <string name="action_settings">Settings</string>
+    <color name="myColor">#ddfbff</color>
+    <string name="submit">Submit</string>
+    <string name="textView">Enter Name:</string>
+</resources>
